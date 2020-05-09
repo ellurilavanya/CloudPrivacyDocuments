@@ -1,0 +1,1438 @@
+
+
+  
+
+    
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    
+    
+    
+    
+      Compliance | How Google complies with data protection laws
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-49447312-51', 'auto');
+    ga('send', 'pageview');
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+    
+      
+        
+          
+            
+             
+            
+          
+        
+        
+          
+            
+              
+               
+              
+            
+          Skip to Content
+        
+        
+          
+            
+             
+            
+          
+        
+        
+          Businesses and Data
+        
+        
+          
+            
+              Overview
+            
+            
+              Controls
+            
+            
+              Security
+            
+            
+              Compliance
+            
+            
+              Resources
+            
+          
+        
+        
+          
+            
+              
+                
+                  
+                    English
+                  
+                  
+                    Afrikaans
+                  
+                  
+                    ????
+                  
+                  
+                    ???????
+                  
+                  
+                    Az?rbaycanca
+                  
+                  
+                    ?????????
+                  
+                  
+                    ?????
+                  
+                  
+                    Català
+                  
+                  
+                    Ceština
+                  
+                  
+                    Dansk
+                  
+                  
+                    Deutsch
+                  
+                  
+                    ????????
+                  
+                  
+                    English (United Kingdom)
+                  
+                  
+                    Español
+                  
+                  
+                    Eesti
+                  
+                  
+                    Euskara
+                  
+                  
+                    ?????
+                  
+                  
+                    Suomi
+                  
+                  
+                    Filipino
+                  
+                  
+                    Français (Canada)
+                  
+                  
+                    Français (France)
+                  
+                  
+                    Galego
+                  
+                  
+                    ???????
+                  
+                  
+                    ??????
+                  
+                  
+                    Hrvatski
+                  
+                  
+                    Magyar
+                  
+                  
+                    ???????
+                  
+                  
+                    Bahasa Indonesia
+                  
+                  
+                    Íslenska
+                  
+                  
+                    Italiano
+                  
+                  
+                    ?????
+                  
+                  
+                    ???
+                  
+                  
+                    ???????
+                  
+                  
+                    ?????
+                  
+                  
+                    ?????
+                  
+                  
+                    ???
+                  
+                  
+                    ???
+                  
+                  
+                    Lietuviu
+                  
+                  
+                    Latviešu
+                  
+                  
+                    ??????
+                  
+                  
+                    ??????
+                  
+                  
+                    ?????
+                  
+                  
+                    Bahasa Melayu
+                  
+                  
+                    ??????
+                  
+                  
+                    Nederlands (Nederland)
+                  
+                  
+                    Norsk
+                  
+                  
+                    Polski
+                  
+                  
+                    Português (Brasil)
+                  
+                  
+                    Português (Portugal)
+                  
+                  
+                    Româna
+                  
+                  
+                    ???????
+                  
+                  
+                    ?????
+                  
+                  
+                    Slovencina
+                  
+                  
+                    Slovenšcina
+                  
+                  
+                    ??????
+                  
+                  
+                    Svenska
+                  
+                  
+                    Kiswahili
+                  
+                  
+                    ?????
+                  
+                  
+                    ??????
+                  
+                  
+                    ???
+                  
+                  
+                    Türkçe
+                  
+                  
+                    ??????????
+                  
+                  
+                    ????
+                  
+                  
+                    Ti?ng Vi?t
+                  
+                  
+                    ??(????)
+                  
+                  
+                    ?? (??)
+                  
+                  
+                    ??(????)
+                  
+                  
+                    Isizulu
+                  
+                
+              
+            
+            
+              Privacy Policy
+            
+          
+        
+        
+      
+      
+        
+          
+            
+              
+                
+                  
+                  
+                
+              
+            
+            
+              
+                Businesses and Data
+              
+            
+          
+          
+            
+              
+                Overview
+                
+              
+              
+                Controls
+                
+              
+              
+                Security
+                
+              
+              
+                Compliance
+                
+              
+              
+                Resources
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                
+                  
+                    English
+                  
+                  
+                    Afrikaans
+                  
+                  
+                    ????
+                  
+                  
+                    ???????
+                  
+                  
+                    Az?rbaycanca
+                  
+                  
+                    ?????????
+                  
+                  
+                    ?????
+                  
+                  
+                    Català
+                  
+                  
+                    Ceština
+                  
+                  
+                    Dansk
+                  
+                  
+                    Deutsch
+                  
+                  
+                    ????????
+                  
+                  
+                    English (United Kingdom)
+                  
+                  
+                    Español
+                  
+                  
+                    Eesti
+                  
+                  
+                    Euskara
+                  
+                  
+                    ?????
+                  
+                  
+                    Suomi
+                  
+                  
+                    Filipino
+                  
+                  
+                    Français (Canada)
+                  
+                  
+                    Français (France)
+                  
+                  
+                    Galego
+                  
+                  
+                    ???????
+                  
+                  
+                    ??????
+                  
+                  
+                    Hrvatski
+                  
+                  
+                    Magyar
+                  
+                  
+                    ???????
+                  
+                  
+                    Bahasa Indonesia
+                  
+                  
+                    Íslenska
+                  
+                  
+                    Italiano
+                  
+                  
+                    ?????
+                  
+                  
+                    ???
+                  
+                  
+                    ???????
+                  
+                  
+                    ?????
+                  
+                  
+                    ?????
+                  
+                  
+                    ???
+                  
+                  
+                    ???
+                  
+                  
+                    Lietuviu
+                  
+                  
+                    Latviešu
+                  
+                  
+                    ??????
+                  
+                  
+                    ??????
+                  
+                  
+                    ?????
+                  
+                  
+                    Bahasa Melayu
+                  
+                  
+                    ??????
+                  
+                  
+                    Nederlands (Nederland)
+                  
+                  
+                    Norsk
+                  
+                  
+                    Polski
+                  
+                  
+                    Português (Brasil)
+                  
+                  
+                    Português (Portugal)
+                  
+                  
+                    Româna
+                  
+                  
+                    ???????
+                  
+                  
+                    ?????
+                  
+                  
+                    Slovencina
+                  
+                  
+                    Slovenšcina
+                  
+                  
+                    ??????
+                  
+                  
+                    Svenska
+                  
+                  
+                    Kiswahili
+                  
+                  
+                    ?????
+                  
+                  
+                    ??????
+                  
+                  
+                    ???
+                  
+                  
+                    Türkçe
+                  
+                  
+                    ??????????
+                  
+                  
+                    ????
+                  
+                  
+                    Ti?ng Vi?t
+                  
+                  
+                    ??(????)
+                  
+                  
+                    ?? (??)
+                  
+                  
+                    ??(????)
+                  
+                  
+                    Isizulu
+                  
+                
+              
+            
+            
+              Privacy Policy
+            
+          
+        
+      
+      
+    
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    
+                      
+                    
+                  
+                
+              
+              
+                
+                  We are committed to complying with applicable data protection laws
+                
+                
+                  We are always working to stay compliant, which helps make compliance easier for
+                  your business. We encourage regular audits, maintain certifications, provide
+                  industry-standard contractual protections, and share tools and information you
+                  can use to strengthen your business’s compliance.
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                
+                  
+                    
+                    
+                      
+                    
+                  
+                
+              
+              
+                
+                  Audits and certifications
+                
+                
+                  When you share your business’s data, we want you to know it is protected. We
+                  proactively ask third parties to review our product controls against
+                  international standards, like ISO standards and SSAE16/ISAE 3402 – so you know
+                  your business’s data is handled responsibly. In addition, a U.S.-based,
+                  qualified, independent third party reviews the effectiveness of our controls at
+                  least every two years.
+                
+                
+                  
+                    
+                    Expand all 
+                    Collapse all 
+                    
+                  
+                  
+                    
+                      
+                        
+                          ISO 27001 (Information security management)
+                        
+                        
+                      
+                      
+                        
+                          ISO 27001 is one of the most widely recognized, internationally accepted
+                          independent security standards. Google has earned ISO 27001 certification
+                          for the systems, applications, people, technology, processes, and data
+                          centers serving Google Cloud
+                          Platform, 
+                          G Suite, Google
+                          Analytics, Google
+                          Analytics 360, Tag Manager
+                          360, Optimize
+                          360, Attribution
+                          360, Audience
+                          Center 360, Data
+                          Studio, DoubleClick
+                          for Publishers, Adwords
+                          Customer Match, DoubleClick
+                          Digital Marketing and Android Recognition Service (certification
+                          pending).
+                        
+                      
+                    
+                    
+                      
+                        
+                          ISO 27017 (Cloud security)
+                        
+                        
+                      
+                      
+                        
+                          ISO 27017 is an international standard of practice for information
+                          security controls based on ISO/IEC 27002, specifically for cloud
+                          services.
+                        
+                        
+                          Google has been certified compliant with ISO 27017 for Google Cloud
+                          Platform products and G Suite.
+                        
+                      
+                    
+                    
+                      
+                        
+                          ISO 27018 (Cloud privacy)
+                        
+                        
+                      
+                      
+                        
+                          ISO 27018 is an international standard of practice for protection of
+                          personally identifiable information (PII) in public cloud services.
+                        
+                        
+                          Google has been certified compliant with ISO 27018 for Google
+                          Cloud Platform products and 
+                          G Suite.
+                        
+                      
+                    
+                    
+                      
+                        
+                          SSAE16/ISAE 3402
+                        
+                        
+                      
+                      
+                        
+                          The American Institute of Certified Public Accountants (AICPA) SOC 2
+                          (Service Organization Controls) and SOC 3 audit framework defines Trust
+                          Principles and Criteria for security, availability, processing integrity,
+                          and confidentiality.
+                        
+                        
+                          Google has both SOC 2 and SOC 3 reports for Google Cloud Platform and G
+                          Suite. You can download our SOC 3 report.
+                          We also have SOC 1 Type 2 for AdWords, AdSense, DoubleClick Campaign
+                          Manager, DoubleClick for Publishers, and DoubleClick Ad Exchange,
+                          available to customers under NDA.
+                        
+                      
+                    
+                    
+                      
+                        
+                          Privacy Shield
+                        
+                        
+                      
+                      
+                        
+                          The Privacy Shield Frameworks are designed to provide a mechanism to
+                          comply with data protection requirements when transferring personal data
+                          from the European Union and Switzerland to the United States in support
+                          of transatlantic commerce. We adhere to the EU-US and Swiss-US Privacy
+                          Shield Frameworks (view
+                          certification).
+                        
+                      
+                    
+                    
+                      
+                        
+                          FedRAMP
+                        
+                        
+                      
+                      
+                        
+                          FedRAMP is a program that provides a standardized approach to security
+                          assessment, authorization, and continuous monitoring for cloud products
+                          and services used by the U.S. federal government. Google maintains a
+                          
+                          FedRAMP Authorization to Operate (ATO) for G Suite and Google App
+                          Engine.
+                        
+                      
+                    
+                    
+                      
+                        
+                          PCI DSS (Payment Card Industry Data Security Standard)
+                        
+                        
+                      
+                      
+                        
+                          The Payment Card Industry Data Security Standard (PCI DSS) is a set of
+                          technical and operational requirements for entities that store, process,
+                          or transmit payment card data. The following Google services have been
+                          reviewed by an independent Qualified Security Assessor and determined to
+                          be compliant with the current version of PCI DSS: Android Pay, Google App
+                          Engine, Google Compute Engine, Google Cloud Storage, Google Cloud
+                          Datastore, Google Cloud SQL, Google BigQuery, Google Cloud Dataproc,
+                          Google Cloud Dataflow, Google Container Engine, Google Container
+                          Registry, Google Cloud Bigtable.
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          
+          
+            
+              
+                
+                  Resources to support and simplify your data compliance
+                
+                
+                  Compliance with data protection laws can be extremely complex. We provide helpful
+                  information, offer technical solutions, and share best practices that help make
+                  it easier for your business to comply with data protection regulations wherever
+                  you operate.
+                
+              
+            
+            
+              
+                
+                  
+                  
+                    
+                  
+                  
+                    ?
+                    
+                      We offer technical solutions to save you time
+                    
+                  
+                
+                
+                  
+                  
+                    
+                  
+                  
+                    ?
+                    
+                      We contribute to industry best practices to make compliance easier for
+                      everyone
+                    
+                  
+                
+                
+                  
+                  
+                    
+                  
+                  
+                    ?
+                    
+                      We provide easy access to documentation
+                    
+                  
+                
+              
+            
+          
+          
+            
+              
+                
+                  
+                
+                
+                  
+                    We offer technical solutions to save you time
+                  
+                  
+                    Since your customers are concerned about their own data privacy, we provide you
+                    with technical solutions that save you time to help your business manage
+                    consents, mask IP addresses, and help you find sensitive data. Some of our
+                    solutions:
+                  
+                  
+                    We offer solutions to manage cookie and personalised ad consents under GDPR
+                    at cookiechoices.org.
+                    
+                    We provide information
+                    and tools to developers to help manage Android in-app permissions.
+                    
+                    In Google Analytics and Google Analytics 360, we offer IP masking
+                    to further anonymize IP addresses you are collecting.
+                    
+                    
+                      Data loss prevention tools in
+                      Google Cloud Platform and G Suite provide quick discovery and classification
+                      of more than 40 sensitive data types, like PII and financial data.
+                    
+                  
+                
+              
+              
+                
+                  
+                
+                
+                  
+                    We contribute to industry best practices to make compliance easier for everyone
+                  
+                  
+                    We collaborate with the European Digital Advertising Alliance, the Network
+                    Advertising Initiative, the U.S. Digital Advertising Alliance, Digital
+                    Advertising Alliance Canada, the Australian Digital Advertising Alliance, and
+                    the Trustworthy Accountability Group.
+                    We also support industry-wide initiatives such as the Coalition for Better Ads.
+                  
+                
+              
+              
+                
+                  
+                
+                
+                  
+                    We provide easy access to documentation
+                  
+                  
+                    Google Cloud Platform customers can access information on sub-processors, or reach out to get more
+                    specific answers. G Suite customers can access the Admin Console for data center
+                    locations, information on sub-processors, and
+                    our privacy and security certifications.
+                  
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                
+                  
+                    
+                    
+                      
+                    
+                  
+                
+              
+              
+                
+                  Our commitment to GDPR
+                
+                
+                  We are working hard to prepare for the EU’s General Data Protection Regulation
+                  (GDPR). Keeping users’ information safe and secure is among our highest
+                  priorities at Google. Over the years, we have spent a lot of time working closely
+                  with Data Protection Authorities in Europe, and we have already implemented
+                  strong privacy protections that reflect their guidance. We are committed to
+                  complying with the new legislation and will collaborate with partners throughout
+                  this process.
+                
+                
+                  
+                    
+                    Expand all 
+                    Collapse all 
+                    
+                  
+                  
+                    
+                      
+                        
+                          Updated terms & contractual protections
+                        
+                        
+                      
+                      
+                        
+                          Where we act as a processor of personal data, we will make available data
+                          processing terms, reflecting the controller-processor relationship, where
+                          required. Products where Google acts as a processor include:
+                        
+                        
+                          Ads Data Hub
+                          
+                          Google Ads Customer Match
+                          
+                          Google Ads Store sales (direct upload)
+                          
+                          Android Enterprise
+                          
+                          Google Marketing Platform (including Display & Video 360, Campaign
+                          Manager, Search Ads 360, Google Analytics, Tag Manager, Optimize, Data
+                          Studio, Attribution, Audience Center, and Google Analytics for Firebase)
+                          
+                          Google Cloud Platform
+                          
+                          G Suite
+                          
+                          
+                            The data processing terms that we offer for the Ads products listed
+                            above are available here. More
+                            information about the types of personal data in scope of those terms
+                            for each Ads product can be found here.
+                            Information about Google Cloud Platform and G Suite commitments to the
+                            GDPR, including data processing terms, can be found here.
+                          
+                          
+                            Additionally, for products where Google and the customer each act as
+                            independent controllers of personal data, we have updated our
+                            agreements or made available terms that reflect that status. These
+                            Google products include:
+                          
+                          
+                            Google AdMob
+                            
+                            Google AdSense
+                            
+                            Google Ads (including Shopping and Hotel Ads, but not Google Ads
+                            features where we act as a processor of personal data - see above)
+                            
+                            Google Ad Manager
+                            
+                            Google Customer Reviews
+                            
+                            Google Maps APIs
+                            
+                            Waze Audio SDK
+                            
+                            
+                              The controller-controller terms that we offer for the Ads products
+                              listed above are available here. We
+                              have published additional information on our Help Center to fully
+                              address your questions DoubleClick
+                              for Publishers and AdX, AdSense, and
+                              AdMob.
+                            
+                            
+                              We also offer European Model Contract Clauses to address EU
+                              data-transfer requirements for Google Cloud Platform and G Suite. We
+                              previously obtained 
+                              Common Opinions from EU Data Protection Authorities confirming
+                              the alignment of our Model Contract Clauses with the Standard
+                              Contractual Clauses published by the European Commission.
+                            
+                            
+                              We offer a Business Associate Agreement addressing requirements under
+                              the U.S. Health Insurance Portability and Accountability Act (HIPAA)
+                              for certain products within Google Cloud
+                              Platform and G
+                              Suite.
+                            
+                            
+                              We have updated our EU
+                              User Consent Policy to align with the legal requirements of GDPR.
+                              Publishers and advertisers who use our advertising and measurement
+                              products globally, will be required to collect permission from EEA
+                              users for personalized ads and use of cookies on their sites and
+                              apps. So if you're a publisher or advertiser using Google advertising
+                              services, you'll need to take steps to make sure users' preferences
+                              are respected to meet the requirements of the law.
+                            
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          Client checklist
+                        
+                        
+                      
+                      
+                        
+                          As a marketer we know you need to select products that are compliant and
+                          use personal data in ways that are compliant. We are committed to
+                          complying with the GDPR and would encourage you to check in on compliance
+                          plans within your own organisation. Key areas to think about:
+                        
+                        
+                          How does your organisation ensure user transparency and control
+                          around data use? Do you explain to your users the types of data you
+                          collect and for what purposes?
+                          
+                          Are you sure that your organisation has the right consents in place
+                          where these are needed under the GDPR? Do you have all of the relevant
+                          consents across your ad supply chain?
+                          
+                          Does your organisation have the right systems to record user
+                          preferences and consents?
+                          
+                          How will you show to regulators and partners that you meet the
+                          principles of the GDPR and are an accountable organisation?
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          Robust safeguards
+                        
+                        
+                      
+                      
+                        
+                          We are well placed to meet the security requirements of the GDPR. Our
+                          services are backed by robust, state-of-the-art technical and
+                          organizational safeguards, dedicated security and privacy teams, and our
+                          program is reviewed annually by third-party auditors.
+                        
+                      
+                    
+                    
+                      
+                        
+                          Incident response
+                        
+                        
+                      
+                      
+                        
+                          We will continue to promptly inform you of incidents involving your
+                          customer data in line with the data incident terms in our current and any
+                          updated agreements with you. We maintain and continue to invest in
+                          advanced threat detection and avoidance technologies, as well as a
+                          rigorous 24/7 incident management program to help you identify and
+                          respond to security or privacy events (and any personal data breaches
+                          under the GDPR) without delay and with all available information.
+                        
+                      
+                    
+                    
+                      
+                        
+                          User transparency
+                        
+                        
+                      
+                      
+                        
+                          We will continue to enhance transparency about how data is used in our
+                          ads products. Google asks users for permission to use data to personalize
+                          ads and provides transparency into how the data is used in real time via
+                          “Why This Ad?” We provide detailed explanations on how we use data on
+                          privacy.google.com and in our
+                          Privacy
+                          Policy. We also provide transparency to users on what data Google
+                          saves about them in My Account, where users can view and manage their
+                          data, privacy, and security settings. Users can go to their ad settings
+                          to control the use of data for ads personalization and for all ads shown
+                          by Google, including on our DoubleClick products. In light of GDPR and as
+                          part of our continued commitment to giving users controls to manage their
+                          privacy, we are updating our account creation experience to give users
+                          more options on what data they choose to save in their account.
+                        
+                      
+                    
+                    
+                      
+                        
+                          International transfers
+                        
+                        
+                      
+                      
+                        
+                          We continue to offer a range of international data-transfer mechanisms
+                          and we are certified
+                          under the EU - U.S. and Swiss - U.S. Privacy Shield frameworks, which
+                          are a legal mechanism to enable the transfer of personal data from the
+                          EEA and Switzerland to the US, where certified organisations guarantee to
+                          provide a level of protection in line with EU data protection law.
+                          Google’s annual renewal of its certification to the EU - U.S. Privacy
+                          Shield was approved by the Department of Commerce on 25 September 2017,
+                          and Google’s certification to the Swiss - U.S. Privacy Shield was
+                          approved on 18 April 2017. We also offer EU-approved Model Contract
+                          Clauses for some services.
+                        
+                        
+                          We will, in addition, continue to monitor the evolution of international
+                          data-transfer mechanisms under the GDPR, and are committed to having a
+                          lawful basis for data transfers in compliance with applicable data
+                          protection laws.
+                        
+                      
+                    
+                    
+                      
+                        
+                          Privacy practices
+                        
+                        
+                      
+                      
+                        
+                          We already have processes to build privacy into our products from the
+                          very earliest stages, and we are further evolving our practices,
+                          including Data Protection Impact Assessments, to meet the GDPR’s
+                          requirements around Privacy by Design and Privacy by Default.
+                        
+                        
+                          Learn more
+                          about how Google is committed to GDPR compliance across G Suite and
+                          Google Cloud Platform services.
+                        
+                      
+                    
+                    
+                      
+                        
+                          Useful links
+                        
+                        
+                      
+                      
+                        
+                          Terms & policies:
+                        
+                        
+                          
+                            Controller
+                            Terms
+                          
+                          
+                            Processor
+                            Terms
+                          
+                          
+                            Breakdown
+                            of Google’s Controller and Processor Products
+                          
+                          
+                            Advertising &
+                            Cookies
+                          
+                          
+                            Updated
+                            EU User Consent Policy
+                          
+                          
+                            Help
+                            with the EU user consent policy
+                          
+                        
+                        
+                          Tools to help publishers comply with the GDPR:
+                        
+                        
+                          
+                            DoubleClick for
+                            Publishers
+                          
+                          
+                            AdMob
+                          
+                          
+                            AdSense
+                          
+                        
+                        
+                          Tools to help advertisers comply with the GDPR:
+                        
+                        
+                          
+                            DoubleClick Bid
+                            Manager
+                          
+                          
+                            DoubleClick
+                            Campaign Manager
+                          
+                          
+                            DoubleClick
+                            Search
+                          
+                        
+                        
+                          Resources:
+                        
+                        
+                          
+                            Cookie Choices
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          Updated ads data retention policies
+                        
+                        
+                      
+                      
+                        
+                          We’re updating our ads data retention
+                          policies and we’re making changes to our products to unify retention
+                          practices.
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+     
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+      
+    
+    
+      
+        
+          
+          
+            
+            
+          
+        
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+    
+    
+      
+      
+    
+    
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+      
+    
+    
+      
+      
+      
+      
+    
+    
+      
+      
+      
+      
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+    
+      
+    
+    
+      
+      
+      
+      
+      
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+        
+          
+             
+          
+        
+        
+          Help Privacy Terms
+        
+      
+    
+    
+     
+     
+     
+     
+      
+    
+  
